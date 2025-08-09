@@ -1,0 +1,25 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Node / tooling (ileride eklenirse)
+node_modules/
+.npmrc
+
+# Env / secrets (şu an yok)
+.env
+.env.local
+
+# Build çıktıları (ileride eklenirse)
+dist/
+build/
+.tmp/
+.cache/
+
+# Coverage / test
+coverage/
+
+# Misc
+*.swp
+*.bak
